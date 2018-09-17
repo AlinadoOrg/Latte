@@ -1,0 +1,4 @@
+'logger': {
+    'path': os.getcwd(),
+    'config': 'logging.conf'
+},
